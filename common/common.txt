@@ -1,1 +1,2 @@
-main에서 작성
+1.main에서 작성
+2.Member에서 작성
