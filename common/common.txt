@@ -1,2 +1,6 @@
 1.main에서 작성
+<<<<<<< HEAD
 2.Board에서 작성
+=======
+2.Member에서 작성
+>>>>>>> Member
